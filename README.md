@@ -26,4 +26,5 @@ You may assume that the input is square and contains at least one row and column
 ## Credits
 
 Code from [dfleta](https://github.com/dfleta/Python_ejercicios/tree/master/Procedimental/Unidad_3_%20Listas_y_%20operaciones_sobre_listas/problem_set_3/sudoku).  
+
 I just refactored and organized the project.
